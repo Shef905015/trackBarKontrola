@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\trackBarKontrola\trackBarKontrola\obj\Debug\trackBarKontrola.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\trackBarKontrola\trackBarKontrola\obj\Debug\trackBarKontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\trackBarKontrola\trackBarKontrola\obj\Debug\trackBarKontrola.Form1.resources
+C:\Users\ucenik\source\repos\trackBarKontrola\trackBarKontrola\obj\Debug\trackBarKontrola.Properties.Resources.resources
+C:\Users\ucenik\source\repos\trackBarKontrola\trackBarKontrola\obj\Debug\trackBarKontrola.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\trackBarKontrola\trackBarKontrola\obj\Debug\trackBarKontrola.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\trackBarKontrola\trackBarKontrola\bin\Debug\trackBarKontrola.exe.config
+C:\Users\ucenik\source\repos\trackBarKontrola\trackBarKontrola\bin\Debug\trackBarKontrola.exe
+C:\Users\ucenik\source\repos\trackBarKontrola\trackBarKontrola\bin\Debug\trackBarKontrola.pdb
+C:\Users\ucenik\source\repos\trackBarKontrola\trackBarKontrola\obj\Debug\trackBarKontrola.exe
+C:\Users\ucenik\source\repos\trackBarKontrola\trackBarKontrola\obj\Debug\trackBarKontrola.pdb
